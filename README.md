@@ -11,8 +11,7 @@
 # 2、Lightweight super-resolution reconstruction method based on hierarchical features fusion and attention mechanism for mine image
 针对矿井图像灰暗模糊、边缘不清晰等问题，提出了一种融合层次特征和注意力机制的轻量化矿井图像超分辨率重建方法。为了使模型在真实矿井场景中具有更好的泛化能力，构建了一种煤矿井下图像数据集CMUID用于网络模型的训练和测试实验。
 
-论文链接：[融合层次特征和注意力机制的轻量化矿井图像 超分辨率重建方法](http://yqyb.etmchina.com/yqyb/article/abstract/20220808)
-
+论文链接：[融合层次特征和注意力机制的轻量化矿井图像 超分辨率重建方法](http://yqyb.etmchina.com/yqyb/article/abstract/20220808).  
 数据集：您可以从[(提取码：249a)](https://pan.baidu.com/s/12cqgfynGR28e9T0AzVz22A?pwd=249a)下载数据集.
 
 #### 如果您觉得这个项目有帮助，请考虑引用我们的论文：  
