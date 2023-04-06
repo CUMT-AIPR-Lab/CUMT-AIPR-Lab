@@ -13,8 +13,8 @@ The images in coal mines have problems of dim, blurry and unclear edges. To addr
 针对矿井图像灰暗模糊、边缘不清晰等问题，提出了一种融合层次特征和注意力机制的轻量化矿井图像超分辨率重建方法。为了使模型在真实矿井场景中具有更好的泛化能力，构建了一种煤矿井下图像数据集CMUID用于网络模型的训练和测试实验。
 
 paper1：[融合层次特征和注意力机制的轻量化矿井图像超分辨率重建方法](http://yqyb.etmchina.com/yqyb/article/abstract/20220808).    
-paper2：[](http://yqyb.etmchina.com/yqyb/article/abstract/20220808).    
-paper3：[融合层次特征和注意力机制的轻量化矿井图像超分辨率重建方法](http://yqyb.etmchina.com/yqyb/article/abstract/20220808).    
+paper2：[Structure-preserving and colo-restoring up-sampling torsingle low-light imagel](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9841591) 
+paper3：[Light-guided and Cross-fusion U-Net for Anti-illuminatiorImage Super-resolution](http://yqyb.etmchina.com/yqyb/article/abstract/20220808).    
 dataset：[(提取码:249a)](https://pan.baidu.com/s/12cqgfynGR28e9T0AzVz22A?pwd=249a).
 
 
