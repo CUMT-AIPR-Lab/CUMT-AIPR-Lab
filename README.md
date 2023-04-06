@@ -14,7 +14,7 @@ The images in coal mines have problems of dim, blurry and unclear edges. To addr
 
 paper1：[融合层次特征和注意力机制的轻量化矿井图像超分辨率重建方法](http://yqyb.etmchina.com/yqyb/article/abstract/20220808).    
 paper2：[Structure-preserving and colo-restoring up-sampling torsingle low-light imagel](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9841591) 
-paper3：[Light-guided and Cross-fusion U-Net for Anti-illuminatiorImage Super-resolution](http://yqyb.etmchina.com/yqyb/article/abstract/20220808).    
+paper3：[Light-guided and Cross-fusion U-Net for Anti-illuminatiorImage Super-resolution]((https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9446912)   
 dataset：[(提取码:249a)](https://pan.baidu.com/s/12cqgfynGR28e9T0AzVz22A?pwd=249a).
 
 
@@ -27,5 +27,7 @@ dataset：[(提取码:d2x2)](https://pan.baidu.com/s/1H_Jd04fWZScqQKocAedNNg?pwd
 [1]程德强等.融合层次特征和注意力机制的轻量化矿井图像 超分辨率重建方法[J].仪器仪表学报,2022,43(8):73-84.
 [2]程德强等.融合残差信息轻量级网络的运煤皮带异物分类[J].煤炭学报,2022,47(3):1361-1369.  
 ##### In English：
-[1]CHENG Deqiang, et al. Lightweight network based on residual information for foreign body classification on coal conveyor belt[J]. Journal of China Coal Society, 2022, 47(3): 1361-1369．
-
+[1]CHENG Deqiang, et al. Lightweight network based on residual information for foreign body classification on coal conveyor belt[J]. Journal of China Coal Society, 2022, 47(3): 1361-1369．  
+[2]CHENG D Q, et al. Lightweight super-resolution reconstruction method based on hierarchical features fusion and attention mechanism for mine image [ J]. Chinese Journal of Scientific Instrument, 2023, 43(8): 73-84.  
+[3] langliang Chen, et al. Structure-preserving and colo-restoring up-sampling torsingle low-light imagel[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2022, 32(4): 1889-1902.  
+[4]Cheng Deqiang, et al. Light-guided and Cross-fusion U-Net for Anti-illuminatiorImage Super-resolutionJj. IEEE Transactions on Circuits and Systems for Video Technology,2022.32(12): 8436-8449.  
