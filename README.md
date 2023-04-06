@@ -21,7 +21,7 @@ CUMT-CMUID Dataset：[(提取码:249a)](https://pan.baidu.com/s/12cqgfynGR28e9T0
 # 3、Helmets dataset underground mine
 In recent years, national policies on intelligent construction of coal mines have been introduced one after another, and the coal mining industry has been paying more and more attention to the construction of intelligent mines with "intelligence and safety" as the core, wearing helmets is the most basic and important measure to protect personnel safety in coal mining. For this reason, our group collected helmet wearing data from underground personnel and established an underground helmet detection data set to help the construction of intelligent mines.
 
-近年来，国家关于煤矿智能化建设的政策相继出台，煤矿行业越来越重视以“智能、安全”为核心的智慧矿山建设，佩戴安全帽是煤矿生产中保护人员安全的最基本也是最重要的措施。为此课题组专门收集井下人员安全帽佩戴数据，建立了井下安全帽检测数据集助力智慧矿山的建设。
+近年来，国家关于煤矿智能化建设的政策相继出台，煤矿行业越来越重视以“智能、安全”为核心的智慧矿山建设，佩戴安全帽是煤矿生产中保护人员安全的最基本也是最重要的措施。为此课题组专门收集井下人员安全帽佩戴数据，建立了井下安全帽检测数据集CUMT-HelmeT助力智慧矿山的建设。
 
 CUMT-HelmeT Dataset：[(提取码:d2x2)](https://pan.baidu.com/s/1H_Jd04fWZScqQKocAedNNg?pwd=d2x2 ).
  
