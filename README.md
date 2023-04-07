@@ -13,8 +13,8 @@ The images in coal mines have problems of dim, blurry and unclear edges. To addr
 针对矿井图像灰暗模糊、边缘不清晰等问题，提出了一种融合层次特征和注意力机制的轻量化矿井图像超分辨率重建方法。为了使模型在真实矿井场景中具有更好的泛化能力，构建了一种煤矿井下图像数据集CUMT-CMUID用于网络模型的训练和测试实验。
 
 Paper1：[融合层次特征和注意力机制的轻量化矿井图像超分辨率重建方法](http://yqyb.etmchina.com/yqyb/article/abstract/20220808).    
-Paper2：[Structure-preserving and colo-restoring up-sampling torsingle low-light imagel](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9841591)  
-Paper3：[Light-guided and Cross-fusion U-Net for Anti-illuminatiorImage Super-resolution](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9446912)   
+Paper2：[Structure-Preserving and Color-Restoring Up-Sampling for Single Low-Light Image](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9446912)  
+Paper3：[Light-Guided and Cross-Fusion U-Net for Anti-Illumination Image Super-Resolution](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9841591)   
 CUMT-CMUID Dataset：[(pwd:249a)](https://pan.baidu.com/s/1RPT-xTtnUpTOV6PRYVBaDQ?pwd=249a).
 
 
@@ -28,12 +28,12 @@ CUMT-HelmeT Dataset：[(pwd:d2x2)](https://pan.baidu.com/s/1yELcc8DpuiG4HNV-eWFe
 ## If this project is of assistance, please consider citing our papers：  
 [1] 程德强等.融合层次特征和注意力机制的轻量化矿井图像 超分辨率重建方法[J].仪器仪表学报,2022,43(8):73-84.  
 [2] 程德强等.融合残差信息轻量级网络的运煤皮带异物分类[J].煤炭学报,2022,47(3):1361-1369.    
-[3] langliang Chen, et al. Structure-preserving and colo-restoring up-sampling torsingle low-light imagel[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2022, 32(4): 1889-1902.  
-[4] Cheng Deqiang, et al. Light-guided and Cross-fusion U-Net for Anti-illuminatiorImage Super-resolutionJj. IEEE Transactions on Circuits and Systems for Video Technology,2022.32(12): 8436-8449.  
+[3] langliang Chen, et al. Structure-Preserving and Color-Restoring Up-Sampling for Single Low-Light Image[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2022, 32(4): 1889-1902.  
+[4] Cheng Deqiang, et al. Light-Guided and Cross-Fusion U-Net for Anti-Illumination Image Super-Resolution[J]. IEEE Transactions on Circuits and Systems for Video Technology,2022.32(12): 8436-8449.  
 ##### In English：
 [1] CHENG Deqiang, et al. Lightweight network based on residual information for foreign body classification on coal conveyor belt[J]. Journal of China Coal Society, 2022, 47(3): 1361-1369．  
-[2] CHENG D Q, et al. Lightweight super-resolution reconstruction method based on hierarchical features fusion and attention mechanism for mine image [ J]. Chinese Journal of Scientific Instrument, 2023, 43(8): 73-84.  
-[3] langliang Chen, et al. Structure-preserving and colo-restoring up-sampling torsingle low-light imagel[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2022, 32(4): 1889-1902.  
-[4] Cheng Deqiang, et al. Light-guided and Cross-fusion U-Net for Anti-illuminatiorImage Super-resolutionJj. IEEE Transactions on Circuits and Systems for Video Technology,2022.32(12): 8436-8449.   
+[2] CHENG D Q, et al. Lightweight super-resolution reconstruction method based on hierarchical features fusion and attention mechanism for mine image [J]. Chinese Journal of Scientific Instrument, 2023, 43(8): 73-84.  
+[3] langliang Chen, et al. Structure-Preserving and Color-Restoring Up-Sampling for Single Low-Light Image[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2022, 32(4): 1889-1902.  
+[4] Cheng Deqiang, et al. Light-Guided and Cross-Fusion U-Net for Anti-Illumination Image Super-Resolution[J]. IEEE Transactions on Circuits and Systems for Video Technology,2022.32(12): 8436-8449.   
 
 ## 若涉及版权问题，请联系我们，我们会及时处理
