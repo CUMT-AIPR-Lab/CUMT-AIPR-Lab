@@ -34,4 +34,6 @@ CUMT-HelmeT Dataset：[(pwd:d2x2)](https://pan.baidu.com/s/1yELcc8DpuiG4HNV-eWFe
 [1] CHENG Deqiang, et al. Lightweight network based on residual information for foreign body classification on coal conveyor belt[J]. Journal of China Coal Society, 2022, 47(3): 1361-1369．  
 [2] CHENG D Q, et al. Lightweight super-resolution reconstruction method based on hierarchical features fusion and attention mechanism for mine image [ J]. Chinese Journal of Scientific Instrument, 2023, 43(8): 73-84.  
 [3] langliang Chen, et al. Structure-preserving and colo-restoring up-sampling torsingle low-light imagel[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2022, 32(4): 1889-1902.  
-[4] Cheng Deqiang, et al. Light-guided and Cross-fusion U-Net for Anti-illuminatiorImage Super-resolutionJj. IEEE Transactions on Circuits and Systems for Video Technology,2022.32(12): 8436-8449.  
+[4] Cheng Deqiang, et al. Light-guided and Cross-fusion U-Net for Anti-illuminatiorImage Super-resolutionJj. IEEE Transactions on Circuits and Systems for Video Technology,2022.32(12): 8436-8449.   
+
+## 若涉及版权问题，请联系我们，我们会及时处理
