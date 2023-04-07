@@ -15,7 +15,7 @@ The images in coal mines have problems of dim, blurry and unclear edges. To addr
 Paper1：[融合层次特征和注意力机制的轻量化矿井图像超分辨率重建方法](http://yqyb.etmchina.com/yqyb/article/abstract/20220808).    
 Paper2：[Structure-preserving and colo-restoring up-sampling torsingle low-light imagel](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9841591)  
 Paper3：[Light-guided and Cross-fusion U-Net for Anti-illuminatiorImage Super-resolution](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9446912)   
-CUMT-CMUID Dataset：[(pwd:249a)](https://pan.baidu.com/s/1YI4ie0rrClDTweRQZCm7Gw?pwd=249a).
+CUMT-CMUID Dataset：[(pwd:249a)](https://pan.baidu.com/s/1RPT-xTtnUpTOV6PRYVBaDQ?pwd=249a).
 
 
 # 3、Helmets dataset underground mine
