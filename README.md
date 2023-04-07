@@ -28,8 +28,8 @@ CUMT-HelmeT Dataset：[(pwd:d2x2)](https://pan.baidu.com/s/1yELcc8DpuiG4HNV-eWFe
 ## If this project is of assistance, please consider citing our papers：  
 [1] 程德强等.融合层次特征和注意力机制的轻量化矿井图像 超分辨率重建方法[J].仪器仪表学报,2022,43(8):73-84.  
 [2] 程德强等.融合残差信息轻量级网络的运煤皮带异物分类[J].煤炭学报,2022,47(3):1361-1369.    
-[3] langliang Chen, et al. Structure-Preserving and Color-Restoring Up-Sampling for Single Low-Light Image[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2022, 32(4): 1889-1902.  
-[4] Cheng Deqiang, et al. Light-Guided and Cross-Fusion U-Net for Anti-Illumination Image Super-Resolution[J]. IEEE Transactions on Circuits and Systems for Video Technology,2022.32(12): 8436-8449.  
+[3] liangliang Chen, et al. Structure-Preserving and Color-Restoring Up-Sampling for Single Low-Light Image[J]. IEEE Transactions on Circuits and Systems for Video Technology,2022,32(4): 1889-1902.
+[4] Cheng Deqiang, et al. Light-Guided and Cross-Fusion U-Net for Anti-Illumination Image Super-Resolution[J]. IEEE Transactions on Circuits and Systems for Video Technology,2022, 32(12): 8436-8449.
 ##### In English：
 [1] CHENG Deqiang, et al. Lightweight network based on residual information for foreign body classification on coal conveyor belt[J]. Journal of China Coal Society, 2022, 47(3): 1361-1369．  
 [2] CHENG D Q, et al. Lightweight super-resolution reconstruction method based on hierarchical features fusion and attention mechanism for mine image [J]. Chinese Journal of Scientific Instrument, 2023, 43(8): 73-84.  
