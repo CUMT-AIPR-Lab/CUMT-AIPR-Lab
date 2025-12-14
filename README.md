@@ -36,4 +36,13 @@ CUMT-HelmeT Dataset：[(pwd:d2x2)](https://pan.baidu.com/s/1yELcc8DpuiG4HNV-eWFe
 [3] liangliang Chen, et al. Structure-Preserving and Color-Restoring Up-Sampling for Single Low-Light Image[J]. IEEE Transactions on Circuits and Systems for Video Technology,2022,32(4): 1889-1902.  
 [4] Cheng Deqiang, et al. Light-Guided and Cross-Fusion U-Net for Anti-Illumination Image Super-Resolution[J]. IEEE Transactions on Circuits and Systems for Video Technology,2022, 32(12): 8436-8449.   
 
+
+# 4、Underground Mine Dust-and-Haze Image Dataset (CUMT-DustFog)
+This dataset was collected from three real mining faces in Shandong Province, where high humidity and heavy dust concentrations result in images that commonly suffer from severe haze, blurring, and color distortion. Clear reference images are unavailable due to the uncontrolled, real-world operating conditions. To support research on image dehazing algorithms, we publicly release a representative subset of 300 images for testing.The dataset faithfully captures the complex visual degradation encountered underground and is well-suited for evaluating the robustness and generalization of dehazing models in industrial environments with high dust and humidity—thereby advancing vision-based perception systems for intelligent mines.
+
+本数据集采集自山东地区3处真实采掘工作面，作业环境湿度高、粉尘浓度大，图像普遍存在严重雾霾、模糊和色彩失真，且无法获取对应的清晰参考图像。为支持去雾算法研究，我们公开其中300张具有代表性的图像作为测试子集。该数据集真实反映井下复杂视觉退化情况，适用于评估图像去雾模型在工业粉尘高湿环境下的鲁棒性与泛化能力，助力智能矿山视觉感知系统的发展。
+
+## If this project is of assistance, please consider citing our papers：  
+[1]寇旗旗,张海龙,陈加鹏,等.基于雾气分级与域间差异的采掘工作面图像去雾方法[J/OL].采矿与岩层控制工程学报,1-13[2025-12-14].https://doi.org/10.13532/j.jmsce.cn10-1638/td.2025-1198.
+
 ## 若涉及版权问题，请联系我们，我们会及时处理
