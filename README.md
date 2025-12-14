@@ -37,7 +37,7 @@ CUMT-HelmeT Dataset：[(pwd:d2x2)](https://pan.baidu.com/s/1yELcc8DpuiG4HNV-eWFe
 [4] Cheng Deqiang, et al. Light-Guided and Cross-Fusion U-Net for Anti-Illumination Image Super-Resolution[J]. IEEE Transactions on Circuits and Systems for Video Technology,2022, 32(12): 8436-8449.   
 
 
-# 4、Underground Mine Dust-and-Haze Image Dataset (CUMT-DustFog)
+# 4、Underground Mine Dust-and-Haze Image Dataset (MineHazeData)
 This dataset was collected from three real mining faces in Shandong Province, where high humidity and heavy dust concentrations result in images that commonly suffer from severe haze, blurring, and color distortion. Clear reference images are unavailable due to the uncontrolled, real-world operating conditions. To support research on image dehazing algorithms, we publicly release a representative subset of 300 images for testing.The dataset faithfully captures the complex visual degradation encountered underground and is well-suited for evaluating the robustness and generalization of dehazing models in industrial environments with high dust and humidity—thereby advancing vision-based perception systems for intelligent mines.
 
 本数据集采集自山东地区3处真实采掘工作面，作业环境湿度高、粉尘浓度大，图像普遍存在严重雾霾、模糊和色彩失真，且无法获取对应的清晰参考图像。为支持去雾算法研究，我们公开其中300张具有代表性的图像作为测试子集。该数据集真实反映井下复杂视觉退化情况，适用于评估图像去雾模型在工业粉尘高湿环境下的鲁棒性与泛化能力，助力智能矿山视觉感知系统的发展。
